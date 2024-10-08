@@ -1,3 +1,4 @@
+
 // getting the titles
 var title1 = document.getElementById("title1");
 var title2 = document.getElementById("title2");
